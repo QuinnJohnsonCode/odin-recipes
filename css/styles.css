@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+.sectional {
+    background-color: aquamarine;
+    font-size: 18px;
+}
+
+.description {
+    font-size: 24px;
+}
+
+.ingredients {
+    font-style: italic;
+}
+
+.steps {
+    font-weight: bold;
+}
